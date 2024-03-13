@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='math_operations',
+    name='math-utilsn',
     version='0.1.1',
     author='Samrat Kumar Dev Sharma',
     author_email='samratkumardev2001@gmail.com',
